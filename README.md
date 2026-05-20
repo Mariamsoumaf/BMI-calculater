@@ -35,7 +35,7 @@ This application allows users to:
 BMI = weight / (height × height)
 
 ## ▶️ How to Run
-1. Open the project in Qt Creator
-2. Run the application
+1. Install PyQt6: pip install PyQt6
+2. Run: python bmi.py
 3. Enter weight and height
 4. Click "Calculate"
