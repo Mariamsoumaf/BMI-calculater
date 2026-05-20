@@ -39,6 +39,3 @@ BMI = weight / (height × height)
 2. Run the application
 3. Enter weight and height
 4. Click "Calculate"
-
-## 👩‍💻 Author
-Mariam Soumaf
