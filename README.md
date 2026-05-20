@@ -17,6 +17,6 @@ The application allows the user to enter their weight and height, then calculate
 
 ## App Structure
 
-- `bmi.py` → main application file
+- `bmi.py` → main application file (UI + logic)
 
 
