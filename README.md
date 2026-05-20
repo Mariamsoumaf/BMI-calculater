@@ -1,10 +1,8 @@
-
 ## SEN210 - User Interface Programming
-
 
 # 💪 BMI Calculator
 
-A simple User Interface project built using Qt / PyQt.
+A simple User Interface project built using PyQt6.
 
 ## 📌 Project Idea
 This application allows users to:
@@ -15,11 +13,13 @@ This application allows users to:
 - Display health status
 
 ## 🛠 Technologies Used
-- Python / PyQt or Qt Creator
+- Python
+- PyQt6
 - Qt Widgets
 - GUI Programming
 
 ## ✨ Features
+- Welcome page
 - Simple and clean interface
 - Easy BMI calculation
 - Instant result display
@@ -35,7 +35,7 @@ This application allows users to:
 BMI = weight / (height × height)
 
 ## ▶️ How to Run
-1. Install PyQt6: pip install PyQt6
-2. Run: python bmi.py
-3. Enter weight and height
-4. Click "Calculate"
+1. Install PyQt6
+
+```bash
+pip install PyQt6
