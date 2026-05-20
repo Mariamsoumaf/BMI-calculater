@@ -1,5 +1,5 @@
 
-##SEN210 - User Interface Programming
+## SEN210 - User Interface Programming
 
 
 # 💪 BMI Calculator
